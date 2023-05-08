@@ -1,0 +1,12 @@
+David - 4500.0
+Emily - 1300.0
+Frank - 2400.0
+Grace - 5000.0
+Henry - 3000.0
+Isabella - 1500.0
+Jack - 1000.0
+Jack - 500.0
+Jackson - 5000.0
+Kate - 1000.0
+Liam - 4500.0
+Mary - 2000.0
